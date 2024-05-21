@@ -26,7 +26,7 @@ with open(filename,"r") as file:
         num=num+len(Word)
 print("Number of words in file:",num)
 ### OUTPUT:
-![Screenshot 2024-05-19 130813](https://github.com/Nakul1411/Command--line-arguments-to-count-word/assets/138849780/2aa588c2-f5c6-465f-8ab2-9c1e5ae5a733)
+![image](https://github.com/Nakul1411/Command--line-arguments-to-count-word/assets/138849780/5d4f52d9-c61c-441c-b0eb-59a443baf9ec)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
